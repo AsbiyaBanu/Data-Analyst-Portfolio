@@ -3,7 +3,7 @@
   
 📌 Project Overview
 
-This project analyzes employee attrition and workforce trends using Power BI. The goal is to understand why employees leave the organization and identify key factors influencing employee attrition.
+-This project analyzes employee attrition and workforce trends using Power BI. The goal is to understand why employees leave the organization and identify key factors influencing employee attrition.
 
 🎯 Objectives
 -Analyze overall employee attrition
